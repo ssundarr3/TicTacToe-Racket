@@ -1,1 +1,0 @@
-("6.2" ("5f2e737f85de3e35ae039f40498185a6fe73b00d" . "a97044cf58eb7edb4b1939e16c01bd4aa9b1ee1f") (collects #"2htdp" #"universe.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"main.rkt") #"/home/shridhar/Desktop/assets/universe.rkt" #"/home/shridhar/Desktop/assets/definitions.rkt" (collects #"errortrace" #"errortrace-key.rkt"))
