@@ -11,7 +11,7 @@
 (define player-first (list 'p '() '() '(1 2 3 4 5 6 7 8 9)))
 (define comp-first (list 'c '() '() '(1 2 3 4 5 6 7 8 9)))
 
-(require "./assets/ttt.rkt")
+(require "./src/ttt.rkt")
 
 #|To Add...
 Continuously play games
